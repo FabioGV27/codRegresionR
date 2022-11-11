@@ -1,4 +1,4 @@
-# Código de Regresión Lineal
+# Código de Regresión Lineal en R
 Este código calcula una regresión lineal simple usando bibliotecas R. Adicionalmente, los datos usados están relacionados a la T°C y Altitud.
 
 ## Créditos
